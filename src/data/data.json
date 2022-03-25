@@ -157,12 +157,6 @@
             "description": "My name is Matt, and I am a junior EE student who enjoys fly fishing and building PC's when I have free time."
         },
         {
-            "img":"img/team/gwyn_tari.png",
-            "name": "Gwyn Tari",
-            "job": "Junior",
-            "description": "Gwyndolyn Tari is a computer engineering student with a passion for animatronics and computer hardware."
-        },
-        {
             "img": "img/team/thomas_balzer.png",
             "name": "Thomas Balzer",
             "job": "Sophomore",
