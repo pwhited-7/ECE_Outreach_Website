@@ -84,35 +84,12 @@
             "name": "Johnathan Doe"
         }
     ],
-    "Team": [{
-            "img": "img/team/david_neitenbach.png",
-            "name": "David Neitenbach",
-            "job": "Senior",
-            "description": "I really enjoy climbing and playing hockey! These let me clear my head and relax. I also really like to design and build speakers in my free time. It isn't the cheapest hobby but I really enjoy it!"
-        },
+    "Team": [
         {
             "img": "img/team/devin_pohl.png",
             "name": "Devin Pohl",
             "job": "Senior",
             "description": "I am a senior in Computer Engineering and lead Outreach's Digital/Programming team. I 𝘳𝘦𝘢𝘭𝘭𝘺 like programming, regularly contributing to open source projects."
-        },
-        {
-            "img": "img/team/jacklyn_moore.png",
-            "name": "Jacklyn Moore",
-            "job": "Senior",
-            "description": "I am a senior in both Electrical Engineering & Biomedical Engineering. I am part of the Math Team in ECE Outreach, and I am interested in pursuing a career in cardiology!"
-        },
-        {
-            "img": "img/team/kendra_ott.png",
-            "name": "Kendra Ott",
-            "job": "Senior",
-            "description": "I'm a senior in Computer Engineering and I lead the math team. I love programming and am interested in firmware. "
-        },
-        {
-            "img": "img/team/kori_eliaz.png",
-            "name": "Kori Eliaz",
-            "job": "Senior",
-            "description": "I’m a senior in Electrical Engineering and lead of the Media team. I’m super passionate about all things aerospace, specifically deep space communications."
         },
         {
             "img": "img/team/trevor_dunham.png",
@@ -182,6 +159,34 @@
         }
     ],
     "Alumni": [
+       {
+            "img": "img/team/kori_eliaz.png",
+            "name": "Kori Eliaz",
+            "linkedin": "",
+            "graduatoin": "",
+            "quote": "I’m a senior in Electrical Engineering and lead of the Media team. I’m super passionate about all things aerospace, specifically deep space communications."
+        },
+       {
+            "img": "img/team/kendra_ott.png",
+            "name": "Kendra Ott",
+            "linkedin": "",
+            "graduation": "",
+            "quote": "I'm a senior in Computer Engineering and I lead the math team. I love programming and am interested in firmware. "
+        },
+       {
+            "img": "img/team/jacklyn_moore.png",
+            "name": "Jacklyn Moore",
+            "linkedin": "",
+            "graduation": "",
+            "quote": "I am a senior in both Electrical Engineering & Biomedical Engineering. I am part of the Math Team in ECE Outreach, and I am interested in pursuing a career in cardiology!"
+        },
+       {
+            "img": "img/team/david_neitenbach.png",
+            "name": "David Neitenbach",
+            "linkedin": "",
+            "graduation": "",
+            "quote": "I really enjoy climbing and playing hockey! These let me clear my head and relax. I also really like to design and build speakers in my free time. It isn't the cheapest hobby but I really enjoy it!"
+        },
         {
             "img": "img/team/jameson_richard.png",
             "name": "Jameson Richard",
